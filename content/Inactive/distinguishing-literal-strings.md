@@ -1,0 +1,2 @@
+[[Inactive]]<br>Classification<br>Human Validated: No<br>Title: Distinguishing literal strings<br>Authors: Mike West, Adam Klein<br>Champions: Withdrawn: [Trusted Types](https://github.com/w3c/webappsec-trusted-types) no longer a dependent<br>Last Presented: None<br>Stage Upgrades:<br>None<br>Last Commit: None<br>Keywords:<br>GitHub Link: https://github.com/mikewest/tc39-proposal-literals <br>GitHub Note Link: None
+# Proposal Description:<br>

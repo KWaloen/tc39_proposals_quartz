@@ -1,0 +1,2 @@
+[[Stage 1]]<br>Classification<br>Human Validated: No<br>Title: Dynamic Modules<br>Authors: Bradley Farias<br>Champions: Bradley Farias<br>Last Presented: July 2018<br>Stage Upgrades:<br>None<br>Last Commit: None<br>Keywords:<br>GitHub Link: https://github.com/nodejs/dynamic-modules <br>GitHub Note Link: https://github.com/tc39/notes/blob/HEAD/meetings/2018-07/july-25.md#dynamic-modules
+# Proposal Description:<br>

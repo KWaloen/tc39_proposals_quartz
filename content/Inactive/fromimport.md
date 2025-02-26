@@ -1,0 +1,2 @@
+[[Inactive]]<br>Classification<br>Human Validated: No<br>Title: from ... import<br>Authors: Bradley Farias<br>Champions: Never presented; preliminary feedback about syntax cost not being worth the weight<br>Last Presented: None<br>Stage Upgrades:<br>None<br>Last Commit: None<br>Keywords:<br>GitHub Link: https://github.com/bmeck/proposal-from-import <br>GitHub Note Link: None
+# Proposal Description:<br>

@@ -1,0 +1,2 @@
+[[Inactive]]<br>Classification<br>Human Validated: No<br>Title: Callable class constructors<br>Authors: Yehuda Katz, Allen Wirfs-Brock<br>Champions: Withdrawn: can be solved with decorators<br>Last Presented: None<br>Stage Upgrades:<br>None<br>Last Commit: None<br>Keywords:<br>GitHub Link: https://github.com/tc39/ecma262/blob/93183b81cb03116b75019615d148b5f788e70edf/workingdocs/callconstructor.md <br>GitHub Note Link: None
+# Proposal Description:<br>

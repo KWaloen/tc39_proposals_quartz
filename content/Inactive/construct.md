@@ -1,0 +1,2 @@
+[[Inactive]]<br>Classification<br>Human Validated: No<br>Title: %constructor%.construct<br>Authors: James M Snell<br>Champions: Withdrawn<br>Last Presented: None<br>Stage Upgrades:<br>None<br>Last Commit: None<br>Keywords:<br>GitHub Link: https://github.com/jasnell/proposal-construct <br>GitHub Note Link: None
+# Proposal Description:<br>

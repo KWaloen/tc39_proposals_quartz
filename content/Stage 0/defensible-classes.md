@@ -1,0 +1,2 @@
+[[Stage 0]]<br>Classification<br>Human Validated: No<br>Title: Defensible Classes<br>Authors: Mark Miller, Doug Crockford<br>Champions: Mark Miller, Doug Crockford<br>Last Presented: <br>Stage Upgrades:<br>None<br>Last Commit: None<br>Keywords:<br>GitHub Link: https://web.archive.org/web/20160804042547/http://wiki.ecmascript.org/doku.php?id=strawman:defensible_classes <br>GitHub Note Link: None
+# Proposal Description:<br>

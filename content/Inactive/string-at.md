@@ -1,0 +1,2 @@
+[[Inactive]]<br>Classification<br>Human Validated: No<br>Title: String.prototype.at<br>Authors: Mathias Bynens, Rick Waldron<br>Champions: Obsoleted by renamed `String.prototype.item` proposal<br>Last Presented: None<br>Stage Upgrades:<br>None<br>Last Commit: None<br>Keywords:<br>GitHub Link: https://github.com/mathiasbynens/String.prototype.at <br>GitHub Note Link: None
+# Proposal Description:<br>

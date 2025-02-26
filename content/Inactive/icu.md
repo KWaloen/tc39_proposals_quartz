@@ -1,0 +1,2 @@
+[[Inactive]]<br>Classification<br>Human Validated: No<br>Title: Normative ICU Reference<br>Authors: Domenic Denicola<br>Champions: Withdrawn; champion is no longer participating in TC39<br>Last Presented: None<br>Stage Upgrades:<br>None<br>Last Commit: None<br>Keywords:<br>GitHub Link: None <br>GitHub Note Link: None
+# Proposal Description:<br>

@@ -1,0 +1,2 @@
+[[Stage 0]]<br>Classification<br>Human Validated: No<br>Title: String trim characters<br>Authors: Wenlu Wang<br>Champions: Wenlu Wang<br>Last Presented: <br>Stage Upgrades:<br>None<br>Last Commit: None<br>Keywords:<br>GitHub Link: https://github.com/Kingwl/proposal-string-trim-characters <br>GitHub Note Link: None
+# Proposal Description:<br>
