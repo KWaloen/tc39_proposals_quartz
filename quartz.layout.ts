@@ -9,7 +9,6 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/KWaloen/tc39_proposals_project",
-      "This page is powered by Quartz and Vercel"
     },
   }),
 }
