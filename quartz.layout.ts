@@ -59,7 +59,7 @@ export const defaultContentPageLayout: PageLayout = {
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.Backlinks({ hideWhenEmpty: false }),
   ],
 }
 
