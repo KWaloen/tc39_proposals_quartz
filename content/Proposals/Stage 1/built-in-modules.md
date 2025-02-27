@@ -315,8 +315,6 @@ The biggest downside utilizing this format is standard library modules looking t
 modules which might cause confusion, for example where modules come from in a Node.js/NPM context. The two
 modules behave different and the same assumptions can't be applied to both.
 
-> Reference: [tc39/proposal-javascript-standard-library#16-comment-]()
-
 ## Specification
 
 - [Ecmarkup source](https://github.com/tc39/proposal-built-in-modules/blob/master/spec.html)
