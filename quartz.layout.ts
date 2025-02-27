@@ -38,7 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
         centerForce: 0.3, // how much force to use when trying to center the nodes
         linkDistance: 100, // how long should the links be by default?
         fontSize: 1, // what size should the node labels be?
-        opacityScale: 1, // how quickly do we fade out the labels when zooming out?
+        opacityScale: 0.5, // how quickly do we fade out the labels when zooming out?
         removeTags: [], // what tags to remove from the graph
         showTags: false, // whether to show tags in the graph
         enableRadial: false, // whether to constrain the graph, similar to Obsidian
@@ -59,6 +59,7 @@ export const defaultContentPageLayout: PageLayout = {
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks({ hideWhenEmpty: false }),
   ],
 }
 
