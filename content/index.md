@@ -1,3 +1,7 @@
+---
+Title: TC39 ECMAScript Evolution Project
+---
+
 20 credit z-inf project
 
 Student: Kai Waløen (UiB)
