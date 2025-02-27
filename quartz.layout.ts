@@ -47,7 +47,7 @@ export const defaultContentPageLayout: PageLayout = {
         drag: true,
         zoom: true,
         depth: -1,
-        scale: 0.5,
+        scale: 1.1,
         repelForce: 0.5,
         centerForce: 0.3,
         linkDistance: 70,
