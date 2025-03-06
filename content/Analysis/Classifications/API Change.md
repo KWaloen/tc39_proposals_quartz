@@ -1,5 +1,12 @@
 #API_Change 
 
+# Test Scatterplot
+
+<div id="scatterplot"></div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="/static/scatterplot.js"></script>
+
 # Inactive
 ```dataview
 
@@ -9,13 +16,6 @@ WHERE contains(file.outlinks, link("API Change"))
 AND contains(file.outlinks, link("Inactive")) 
 
 ```
-
-# Test Scatterplot
-
-<div id="scatterplot"></div>
-
-<script src="https://d3js.org/d3.v7.min.js"></script>
-<script src="/static/scatterplot.js"></script>
 
 
 # Stage 0
