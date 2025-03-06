@@ -10,7 +10,7 @@ AND contains(file.outlinks, link("Inactive"))
 
 ```
 
-# My Scatterplot
+# Test Scatterplot
 
 <div id="scatterplot"></div>
 
