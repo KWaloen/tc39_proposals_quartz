@@ -3,22 +3,16 @@
 # Test Scatterplot
 
 <div id="scatterplot"></div>
-
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script src="/static/scatterplot.js"></script>
 
+<div id="scatterplot2"></div>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="/static/scatterplot.js"></script>
 
+#### Inactive
+![[API Change Inactive]]
 
-# Inactive
-
-```dataview
-
-TABLE 
-file.tags AS "Stages"
-WHERE contains(file.outlinks, link("API Change")) 
-AND contains(file.outlinks, link("Inactive")) 
-
-```
 
 
 # Stage 0
