@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
+
   // Sample Data
   const data = [
     { x: 10, y: 20 },
